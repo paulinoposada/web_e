@@ -1,0 +1,309 @@
+Orden ECD/1543/2015, de 21 de julio, por la que se establece el currículo del
+ciclo formativo de grado superior correspondiente al título de Técnico Superior
+en Organización del Mantenimiento de Maquinaria de Buques y
+Embarcaciones.
+
+Módulo profesional: Organización del mantenimiento y montaje de instalaciones y
+sistemas eléctricos de buques y embarcaciones.
+
+Código: 1311.
+
+Contenidos:
+
+a)  Valoración, regulación y medida del suministro eléctrico:
+
+Regulación del alternador trifásico:
+Constitución del estator y rotor del alternador.
+Alternador con escobillas y excitatriz incorporada al alternador.
+Alternador con excitatriz electrodinámica.
+Autoexcitación y cebado.
+Regulación de tensión con reactancias y compoundaje.
+Regulación electrónica.
+Regulación del alternador sin escobillas:
+Alternador principal y alternador auxiliar con inductor en el estátor e inducido en
+el rotor.
+Diodos giratorios.
+Regulador electrónico de tensión.
+Sistemas para la regulación de velocidad (frecuencia) de los alternadores:
+Reguladores de velocidad hidráulicos.
+Reguladores de velocidad electrónicos.
+Caída de velocidad con la carga.
+Regulación de la potencia reactiva en paralelo.
+Sistemas de protección de alternadores.
+Protección y regulación del interruptor automático o disyuntor:
+Protección magnética para cortocircuitos.
+Protección térmica de sobrecargas.
+Regulación térmica y magnética del interruptor automático.
+Cámara apagachispas.
+Bobina de mínima tensión.
+Regulación del relé de sobrecarga:
+Regulación de los valores de sobrecarga y de los tiempos de disparo de la alarma y los servicios no esenciales.
+Regulación del valor de sobrecarga para la desconexión del alternador. Tiempo de desconexión.
+Desconexión mediante el relé de mínima tensión.
+
+Control de acoplamiento de alternadores:
+Sistema manual, semiautomático y automático.
+Sincronoscopio y lámparas indicadoras de sincronismo.
+Relé de sincronismo. Ajuste de los valores para el acoplamiento en paralelo:
+ángulo de desfase y tiempo.
+
+Equilibrado de las cargas, regulación de carga variando la velocidad.
+Funcionamiento del alternador como motor síncrono, relé de potencia inversa.
+Ajuste del relé de potencia inversa para la alarma y desconexión del alternador.
+Control de la desconexión de alternadores y conexión de la toma de corriente exterior:
+Reducción de la carga del alternador y desconexión.
+Protecciones a la conexión de la toma de corriente exterior.
+Exclusión de alternadores y toma de corriente exterior.
+Relé de sucesión de fases.
+Cuadro de emergencia y conexión del generador de emergencia:
+Arranque automático del generador de emergencia.
+Relé fallo de tensión del cuadro principal.
+Conexión del cuadro de emergencia con el cuadro principal.
+Elementos conectados al cuadro de emergencia.
+Arranque manual del generador de emergencia.
+
+
+
+b)  Control del cuadro principal y consumidores:
+
+Sistemas de medida eléctrica de los cuadros eléctricos:
+Sistemas de medida: bobina móvil, hierro móvil, electrodinámico, de inducción y láminas vibrantes.
+
+Ajuste de los sistemas de medida.
+Ampliación del alcance en la medida de intensidad y tensión en corriente alterna y corriente continua.
+
+Medida de potencia en los sistemas trifásicos.
+
+Protecciones del cuadro principal:
+Interruptores automáticos. Bimetal térmico. Bobina magnética.
+Relé de mínima tensión.
+Relé de máxima tensión.
+
+Puesta en marcha y control de transformadores monofásicos:
+Funcionamiento del transformador en vacío y en carga.
+Pérdidas en el transformador.
+Ensayo en vacío y cortocircuito del transformador.
+Características del autotransformador.
+
+Puesta en marcha y control del transformador trifásico:
+Control del núcleo.
+Conexionado del transformador.
+Ensayo en vacío y cortocircuito del transformador trifásico.
+Funcionamiento en paralelo.
+
+Medidas de temperatura y vibración de máquinas giratorias:
+
+Conexiones flexibles. Alineamiento. Alineamiento por láser.
+
+Procedimientos de limpieza y engrase.
+
+Control de motores trifásicos de corriente alterna:
+Motor de jaula de ardilla. Motor de rotor bobinado y anillos rozantes.
+Devanados trifásicos del estátor. Número de pares de polos.
+Inversión de giro.
+Curvas de par/velocidad y de intensidad/velocidad.
+Motor de dos velocidades.
+Arranque en los motores de corriente alterna:
+Arranque directo.
+Arranque estrella/triángulo. Curvas de par/velocidad e Intensidad/velocidad.
+Disminución de par en el arranque.
+Otros sistemas de arranque.
+Contactores electrónicos de arranque progresivo.
+
+Control del motor monofásico de jaula de ardilla:
+Motor de fase partida con devanado auxiliar.
+Motor de fase partida con condensador.
+Motor de espira en cortocircuito.
+Motor universal.
+Motor trifásico como monofásico.
+
+Control los grupos convertidores:
+Diagramas de bloques: transformador, rectificador, bus de continua, inversión y filtros de salida.
+Sistema de premagnetización del equipo.
+Precarga de los condensadores.
+Procedimientos de rectificación:
+Rectificación con diodos. Rectificadores de 6 pulsos y de 12 pulsos. Necesidad
+del Chopper de frenado.
+Rectificación controlada (IGBT). Posibilidad de frenado devolviendo la energía a
+la red.
+
+Control del inversor de tres niveles:
+Inversión con IGBT.
+Control de los IGBT.
+Filtros de salida, dv/dt.
+
+Control de la unidad de refrigeración:
+Refrigeración por aire.
+Refrigeración por agua desionizada.
+Redundancia del equipo.
+
+
+
+c)  Supervisión y realización del montaje de sistemas eléctricos de arranque y control
+de motores:
+
+Elaboración del esquema:
+Esquema eléctrico multifiliar y unifiliar.
+Esquema de fuerza o principal y esquema de mando o maniobra.
+Elaboración de croquis.
+Simbología.
+Montaje de sistemas de arranque:
+Normativa para instalaciones de baja tensión.
+Determinación de la intensidad de corriente.
+Caídas de tensión.
+Selección del cableado.
+Tablas.
+Regulación de los elementos de protección de fuerza y maniobra:
+Selección y control de fusibles.
+Regulación de interruptores, pulsadores e indicadores: interruptores automáticos de protección con bobina de mínima y con bobina de máxima; interruptor diferencial.
+Protección de motores. Relé térmico de sobrecarga.
+Regulación de los elementos de maniobra:
+
+Contactores. Contactos auxiliares. Realimentación.
+Relé de maniobra.
+
+Detectores de temperatura de devanados.
+
+Temporizadores a la conexión y desconexión. Regulación.
+
+Medidas de tensión, intensidad y continuidad:
+Utilización del polímetro.
+
+Pinzas amperimétricas.
+
+
+d)  Programación del mantenimiento preventivo, predictivo y correctivo de las instalaciones eléctricas del buque:
+Elaboración del programa de mantenimiento:
+Establecimiento de prioridades.
+Periodicidad de los mantenimientos.
+Tiempos de ejecución.
+Cargas de trabajo.
+Técnicas de mantenimiento predictivo:
+Obtención y tratamiento de datos de aislamiento, vibraciones, temperaturas y ruidos.
+Obtención y tratamiento de medidas de tensión, intensidad y potencia.
+Técnicas de medida.
+Interpretación de esquemas.
+Elaboración de bases de datos de mantenimiento.
+
+Medición de aislamiento eléctrico:
+Indicadores de aislamiento de barras 380 V o 660 V y barras de 220 V.
+
+Equilibrado del consumo de fases.
+
+Aparatos de medida de aislamiento (Meger).
+Lámparas de bajo aislamiento.
+Detección y alarma de fuga de corriente.
+Relé diferencial de fuga de corriente.
+Valores límite de aislamiento.
+Medición de intensidad de corriente y temperatura en máquinas eléctricas:
+Medida de la temperatura de devanados. Funcionamiento de los ventiladores.
+Sensores de temperatura en alternadores motores especiales y transformadores.
+Control del funcionamiento de los rodamientos y acoplamiento:
+
+Medición de vibraciones.
+Medición de la temperatura de los rodamientos.
+
+Definición de parámetros de regulación del cuadro principal:
+
+Interpretación de la documentación y esquema eléctrico del cuadro principal.
+Parámetros de los interruptores. Regulación magnética y térmica.
+Parámetros de la bobinas de tensión.
+Protocolos de desconexión de los servicios no esenciales. Regulación de
+alarmas y temporización de los diferentes escalones.
+Documentos de registro de inspecciones:
+Formatos de diagnóstico.
+Inspecciones externas.
+
+
+
+e)  Supervisión y mantenimiento del cuadro principal de distribución y de los
+generadores, transformadores, motores y grupos convertidores:
+Protecciones de los cuadros y equipos eléctricos antes de una actuación:
+Puesta a tierra de los equipos.
+Medidores de la resistencia de aislamiento (isometer).
+Servicios alternativos o de emergencia.
+Reparación de averías en maquinaria eléctrica:
+Secuencias de montaje y desmontaje.
+Documentación técnica.
+Localización y reparación de averías en el cuadro principal:
+Registro de averías:
+Registro de datos y procesos de reparación.
+Históricos de repetición de averías.
+Interpretación de la documentación técnica.
+Secuencia de localización de averías.
+Propuestas y alternativas de reparación.
+Repuestos necesarios para la reparación y mantenimiento.
+Procesos y técnicas de montaje y desmontaje.
+Verificación de funcionamiento.
+
+
+
+
+
+f)  Mantenimiento de las instalaciones y los equipos de corriente continua:
+Mantenimiento de baterías:
+Tipos de acumuladores. Acumuladores de plomo.
+Tensión y corriente de carga y descarga.
+Resistencia interna.
+Comprobación del estado de las baterías. Densímetros y medidores de
+cortocircuito.
+Mantenimiento y reparación del generador de carga de baterías:
+Intensidad de carga de baterías.
+Regulación y control de la carga de baterías. Variación de la corriente de
+excitación con la velocidad de giro.
+Procedimientos de reparación.
+Procedimientos de verificación de la funcionalidad.
+Ajuste y comprobación de los reguladores de tensión de alternadores para carga de
+baterías:
+Diodos zener.
+Transistores bipolares. NPN y PNP.
+Mantenimiento de paneles fotovoltaicos y aerogeneradores:
+Funcionamiento.
+Potencia generada. Tensión e intensidad generada.
+Reguladores de carga.
+Mantenimiento del motor de arranque eléctrico.
+Alimentación de corriente continua a los aparatos de puente:
+Cuadro de corriente continua. Protecciones.
+Rectificador trifásico.
+Mantenimiento de los sistemas de luces de emergencia:
+Relé fallo de tensión.
+Cuadro de luces de emergencia.
+Mantenimiento de los sistemas de alarma:
+Relés desexcitados, excitados y de maniobra.
+Sensores de alarma.
+
+
+
+
+g)  Evaluación y prevención de riesgos laborales:
+Concepto de peligro y riesgo.
+Identificación de peligros y evaluación de riesgos en las instalaciones de máquinas.
+Planes de protección y actuación.
+Medidas de prevención y respuesta a contingencias.
+Normativa actual. Instalaciones de alta y baja tensión.
+Medidas de precaución en trabajos de operación y mantenimiento:
+Trabajos en instalaciones eléctricas y espacios confinados.
+Riesgos por trabajos en altura.
+Riesgo de cortocircuito con tensiones de seguridad inferiores a 50 voltios.
+Procedimiento en trabajos con tensiones superiores a la de seguridad.
+Trabajos en tensión en locales con riesgo de explosión o incendio.
+
+Medidas de protección individual y colectiva:
+Equipos de protección individual (EPI).
+Señalización de seguridad.
+Preparación de la zona de trabajo:
+Organización de los espacios de operación.
+Medidas de puesta a tierra.
+Medidas de aislamiento.
+Preparación de fuentes de energía alternativas.
+Higiene en el trabajo:
+Límites de ruido.
+Condiciones de iluminación y ventilación.
+Temperatura y humedad de los distintos locales/espacios.
+Ergonomía en la realización de las diferentes operaciones.
+Periodos de actividad/descanso.
+Consecuencias para la salud.
+Manipulación de residuos y productos peligrosos:
+Almacenamiento y manipulación de productos peligrosos.
+Sistema de recogida selectiva y eliminación de residuos.
+Normativa.
