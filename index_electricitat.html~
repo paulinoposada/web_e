@@ -18,7 +18,7 @@
 		<h2>Installacions El&egrave;ctriques - cifpnauticopesquera - curs 2023/24</h2>
 		<h3>Professor Paulino Posada - pposada@cifpnauticopesquera.es</h3> 
 		
-
+		<img src="./acdc.jpg" alt="AC/DC" width="250" height="250"/>
 
 
 				<ul>
@@ -35,6 +35,9 @@
 				Apunts</a>
 				</li> 
 
+				<li><a href="./web_documents/examens.html">
+				Examens</a>
+				</li> 
 
 				<li><a href="./web_documents/practiques.html">
 				Pr&aacute;ctiques</a>
