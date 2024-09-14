@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		<title>documentacio_general</title>
+		<!--link type="text/css" rel="stylesheet" href="tecno.css" /-->
+		
+	</head>
+
+
+	<body>
+		
+		
+		<p>
+			<ul>
+
+			
+			<li><a href="./catalegs.html">
+			Cat&agrave;legs</a>
+			</li> 
+			
+			<li><a href="https://paulinoposada.github.io/web/websites/paulino/books/technical/electronics_kuphaldt/DC.pdf">
+			DC
+			</a></li>
+
+			<li><a href="https://paulinoposada.github.io/web/websites/paulino/books/technical/electronics_kuphaldt/AC.pdf">
+			AC
+			</a></li>
+
+			<li><a href="./llibre.html">
+			Llibre electricitat
+			</a></li>
+
+			</a></li>
+
+			<li><a href="https://www.anintegratedworld.com/why-touching-neutral-and-earth-trips-an-rcd/">
+			Conexi&oacute; Neutre -Terra
+			</a></li>
+
+			<li><a href="https://landingpage.bsigroup.com/LandingPage/Series?UPI=BS%20IEC%2060092">
+			Electrical installations in ships - BS IEC 60092
+			</a></li>
+
+			</br>
+			</br>
+
+								
+			<li>
+			T&iacute;tulo
+			</br>
+			</br>
+			<a href="https://paulinoposada.github.io/web_e/documents/BOE-A-2012-10867.pdf">
+			RD 1075/2012 - T&eacute;cnico Superior en Organizaci&oacute;n del Mantenimiento de Maquinaria de
+			Buques y Embarcaciones</a>
+			</br>
+			</br>
+			C&oacute;digo 1311 (pag. 36) - M&oacute;dulo Profesional: Organizaci&oacute;n del mantenimiento y montaje de instalaciones y sistemas el&eacute;ctricos de buques y embarcaciones
+
+
+			</li>
+
+			</br>
+			</br>
+								
+			<li>
+			Curr&iacute;culo
+			</br>
+			</br>
+			<a href="https://paulinoposada.github.io/web_e/documents/BOE-A-2015-8478.pdf">
+			Orden ECD/1543/2015 - T&eacute;cnico Superior en Organizaci&oacute;n del Mantenimiento de Maquinaria de
+			Buques y Embarcaciones</a>
+			</br>
+			</br>
+			C&oacute;digo 1311 (pag. 23) - M&oacute;dulo profesional: Organizaci&oacute;n del mantenimiento y montaje de instalaciones y sistemas el&eacute;ctricos de buques y embarcaciones.
+
+			</li>
+			
+			</br>
+			</br>
+
+			<li><a href="https://paulinoposada.github.io/web_e/documents BOE-326_Reglamento_electrotecnico_para_baja_tension_e_ITC.pdf">
+			Reglament electrot&egrave;cnic per a baixa tensi&oacute; - RBT
+			</a></li>
+
+			
+			
+			</ul>
+
+			<a href="../index_electricitat_2425.html">Tornar</a>
+			</br>
+			</br>
+
+			</br>
+			
+		</p>
+	</body>
+</html>
