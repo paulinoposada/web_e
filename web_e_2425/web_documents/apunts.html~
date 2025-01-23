@@ -143,10 +143,30 @@
 					<li><a href="https://matrixcalc.org/es/">
 					Calculadora de matrices</a>
 					</li> 
+	
 
 				
 				</ul>
 
+
+
+
+			<h3>Apunts Arduino</h3>
+
+				<ul>
+				
+			
+					<li><a href="../documents/apunts/arduino/e_apunts_arduino.pdf">
+					Apunts Arduino</a>
+					</li>
+ 
+					<li><a href="../documents/apunts/arduino/arduino-1.8.18-windows.zip">
+					Arduino IDE zip format</a>
+					</li> 
+
+					</br>
+					
+				</ul>
 
 
 
