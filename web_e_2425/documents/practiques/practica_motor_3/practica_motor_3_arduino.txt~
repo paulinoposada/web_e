@@ -1,0 +1,68 @@
+// motor con arranque temporizado
+
+
+  
+void setup() {
+  pinMode(2, INPUT); // entrada señal del pulsador S1 NC para desconexión
+  pinMode(3, INPUT); // entrada señal del pulsador S2 NO para conexión 
+  pinMode(4, OUTPUT); // salida señal para abrir el contacto C1 -> desconexión motor
+  pinMode(5, OUTPUT); // salida señal para cerrar el contacto C2 con retardo -> conexión motor
+  pinMode(6, OUTPUT); // salida señal para piloto aviso retardo, contacto C3
+}
+
+void loop() {
+  if(digitalRead(2) == 1 ) {
+    digitalWrite(4, 1);         // si la entrada 2 (pulsador S1) está pulsado 2==1 -> abre
+    }
+  else{digitalWrite(4, 0);      // si la entrada 2 (pulsador S1) no está pulsado 2==0 -> cierra
+      delay(100);}
+
+
+  if(digitalRead(3) == 1 ) {
+    digitalWrite(6, 1);         // si la entrada 3 (pulsador S2) está pulsado 3==1 -> cierra C3 -> se activa el piloto retardo
+    delay(3000);                 // tiempo de retraso al encendido
+    digitalWrite(5, 1);         // el contacto C2 cierra
+    delay(100);
+    }
+  else{digitalWrite(5, 0);      // si la entrada 3 (pulsador S2) no está pulsado 3==0 -> abre
+      digitalWrite(6, 0);       // si la entrada 3 (pulsador S2) no está pulsado 3==0 -> abre C3 -> se apaga el piloto retardo
+      delay(100);
+      }
+}
+
+
+
+
+
+// motor con parda temporizada
+
+
+void setup() {
+  pinMode(2, INPUT); // entrada señal del pulsador S1 NC para desconexión
+  pinMode(3, INPUT); // entrada señal del pulsador S2 NO para conexión 
+  pinMode(4, OUTPUT); // salida señal para abrir el contacto C1 -> desconexión motor
+  pinMode(5, OUTPUT); // salida señal para cerrar el contacto C2
+  pinMode(6, OUTPUT); // salida señal para piloto aviso retardo, contacto C3
+}
+
+void loop() {			
+  if(digitalRead(2) == 1 ) {	// si la entrada 2 (pulsador S1) está pulsado 2==1
+    digitalWrite(6, 1);		// C3 recibe señal y cierra, encendiendo piloto aviso retardo
+    delay(10000);		// retardo de 10 s
+    digitalWrite(4, 1);         // pasado el retardo, el contacto C1 abre, desconectando el motor
+    }
+  else{digitalWrite(4, 0);      // si la entrada 2 (pulsador S1) no está pulsado 2==0 -> cierra
+      delay(100);}
+
+
+  if(digitalRead(3) == 1 ) {
+    digitalWrite(5, 1);         // si la entrada 3 (pulsador S2) está pulsado 3==1 -> cierra C2 durante la pulsación
+                
+    }
+  else{digitalWrite(5, 0);      // si la entrada 3 (pulsador S2) no está pulsado 3==0 -> abre
+      digitalWrite(6, 0);       // si la entrada 3 (pulsador S2) no está pulsado 3==0 -> abre C3 -> se apaga el piloto retardo
+      delay(100);  
+      }
+}
+
+
