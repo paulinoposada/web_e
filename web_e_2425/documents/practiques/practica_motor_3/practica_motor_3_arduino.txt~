@@ -45,24 +45,28 @@ void setup() {
   pinMode(6, OUTPUT); // salida señal para piloto aviso retardo, contacto C3
 }
 
-void loop() {			
-  if(digitalRead(2) == 1 ) {	// si la entrada 2 (pulsador S1) está pulsado 2==1
-    digitalWrite(6, 1);		// C3 recibe señal y cierra, encendiendo piloto aviso retardo
-    delay(10000);		// retardo de 10 s
-    digitalWrite(4, 1);         // pasado el retardo, el contacto C1 abre, desconectando el motor
+// desconexión del motor
+void loop() {      
+  if(digitalRead(2) == 1 ) {  // si la entrada 2 (pulsador S1) no está pulsado 2==1
+  digitalWrite(4, 1);         // el contacto C1 se mantiene cerrado (com B cont)
+  digitalWrite(6, 0);         // C3 mantiene abierto (com A cont), piloto aviso retardo apagado
     }
-  else{digitalWrite(4, 0);      // si la entrada 2 (pulsador S1) no está pulsado 2==0 -> cierra
-      delay(100);}
+  else{
+    digitalWrite(6, 1);       // C3 mantiene cerrado (com B cont), piloto aviso retardo encendido
+    delay(10000);             // retardo de 10 s
+    digitalWrite(4, 0);       // pasado el retardo, el contacto C1 abre (com A cont), desconectando el motor
+    delay(100);
+    }
 
 
+// Conexión del motor
   if(digitalRead(3) == 1 ) {
-    digitalWrite(5, 1);         // si la entrada 3 (pulsador S2) está pulsado 3==1 -> cierra C2 durante la pulsación
+    digitalWrite(5, 1);         // si la entrada 3 (pulsador S2) está pulsado 3==1 -> C2 cierra (com B cont) durante la pulsación
                 
     }
-  else{digitalWrite(5, 0);      // si la entrada 3 (pulsador S2) no está pulsado 3==0 -> abre
-      digitalWrite(6, 0);       // si la entrada 3 (pulsador S2) no está pulsado 3==0 -> abre C3 -> se apaga el piloto retardo
+  else{digitalWrite(5, 0);      // si la entrada 3 (pulsador S2) no está pulsado 3==0 -> C2 abre (com A cont)
+      digitalWrite(6, 0);       // si la entrada 3 (pulsador S2) no está pulsado 3==0 -> C3 abre (com A cont) -> se apaga el piloto retardo
       delay(100);  
       }
 }
-
 
